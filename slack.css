@@ -1,0 +1,389 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins", sans-serif !important;
+    color: #1d1d1d !important;
+}
+html{
+    font-family: "Poppins", sans-serif !important;
+    color: #1d1d1d !important;
+}
+h1{
+    text-align: center;
+
+}
+.text-primary{
+    color: rgb(151, 3, 201);
+}
+
+.bg-purple{
+    background-color: #4a154b !important;
+}
+.text-btn-purple{
+    color: #611f69 !important;
+    
+}
+.text-purple-dark{
+    background-color: #611f69 !important;
+}
+.text-purple{
+    color: #9703c9 !important;
+}
+.btn-outline-success{
+    border-color: #611f69 !important;
+}
+.nav-item, .nav-item>.btn{
+    font-weight: 600;
+}
+.nav-item>.nav-link, .black{
+    color: black !important;
+}
+.nav-link{
+    font-size: .9rem !important;
+}
+svg{
+    vertical-align: middle;
+}
+
+.btn-hover:hover{
+    background-color: transparent !important;
+    border: 2px solid;
+}
+.hero-head{
+    font-size: 3rem !important;
+    word-spacing: .8rem;
+}
+
+/* .small-img img{
+   display: block;
+} */
+.container{
+    /* max-width: 900px !important; */
+}
+
+.slack-pic-img{
+    max-width: 65%;
+}
+
+p.black{
+    font-weight:  900;
+}
+.your-people{
+    /* margin-top: -220px; */
+    /* background-color: #d0bed013; */
+    background-image: linear-gradient(180deg, #d0bed034, #d0bed018);
+    /* padding-top: 40px; */
+    clip-path: ellipse(70% 100% at center bottom);
+    /* height: 500px; */
+    z-index: -1;
+}
+.slack-pic{
+    
+}
+.slack-pic-img img{
+    /* margin-bottom: -220px;
+    z-index: 100; */
+}
+.collabs, .thebackground{
+    background-color: #d0bed018;
+}
+
+.left-collabs{
+    flex-basis: 45%;
+}
+.percent{
+    font-weight: 1000 !important;
+}
+
+.svg-img{
+    width: 600px;
+    height: 400px;
+    right: -250px;
+}
+.comp-img1{
+    /* background: url("images/ai.jpg"); */
+    background: linear-gradient(180deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.37) 100%), url("images/ai.jpg");
+}
+.comp-img2{
+    background: linear-gradient(180deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.37) 100%), url("images/ibm.jpg");
+    /* background: url("images/ibm.jpg"); */
+}
+.comp-img3{
+    background: linear-gradient(180deg, rgba(0,0,0,0.6) 0%, rgba(0, 0, 0, 0.37) 100%), url("images/ibm.jpg");
+    /* background: url("images/ibm.jpg"); */
+}
+.comp-img4{
+    background: linear-gradient(180deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.37) 100%), url("images/ride.jpg");
+    /* background: url("images/ride.jpg"); */
+}
+.comp-img{
+    
+    /* background-size: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+.inn{
+    /* margin: 89px auto; */
+    font-weight: bolder;
+    color: black;
+}
+
+.the-most{
+    font-size: 3rem;
+}
+li{
+    list-style-type:none;
+    /* margin-left: ; */
+    /* padding-left: 0; */
+}
+
+.plan-card{
+    width: 24% !important;
+}
+.plan-summary{
+    line-height: 1.2rem;
+    font-size: .85rem;
+}
+ul.ps-0, .plan-talk{
+    font-size: .8rem;
+}
+.addon{
+    font-size: .85rem;
+}
+.new{
+    font-size: .85rem;
+    border-radius: 50%;
+}
+.plansection{
+    /* clip-path: ellipse(80% 100% at center top); */
+    /* background-color: red; */
+}
+.clip-part{
+    height: 8rem;
+}
+.the-top-part{
+    clip-path:  ellipse(65% 200% at center -105%);
+    /* border-radius: 0 100% 0 0; */
+    height: 10rem;
+}
+.the-bottom-part{
+    margin-top: -100px;
+}
+.in-the-business-stats-each{
+    flex-basis: 30%;
+}
+.text-feint-purple{
+    color: #d17dfe !important;
+}
+.in-the-percent{
+    font-size: 6rem;
+}
+.in-the-business-top{
+    font-size: 3rem;
+}
+.badges{
+    /* width: 9px;
+    height: 100px; */
+}
+.million-of-people-bottom div{
+    flex-basis: 45%;
+}
+.million-of-people-top{
+    font-size: 3rem;
+}
+.bold-part{
+    font-size: 3.6rem;
+    margin-left: -8rem;
+}
+/* .normal-text{
+    flex-basis: 48%;
+} */
+ .each-part div{
+    /* flex-basis: 100%; */
+ }
+ .normal-text{
+    /* text-wrap: nowrap; */
+    /* width: 500px; */
+ }
+ .card-title{
+    color: #454245 !important;
+    font-size: .8rem;
+ }
+ .read-more{
+
+ }
+ .right-arrow{
+    margin-top: -.6rem;
+}
+.footnote{
+   
+    font-size: .8rem;
+    color: #454245 !important;
+}
+.accomplish-top{
+    font-size: 3rem;
+}
+.accomplish{
+    clip-path: ellipse(70% 100% at center top);
+}
+.the-ul{
+    padding-left: 0;
+}
+.each-footer-list{
+    font-size: .8rem;
+}
+.the-ul li:hover{
+    color: rgb(30, 115, 226) !important;
+    cursor: pointer;
+}
+.final-footer-left, .final-footer-right{
+    font-size: .8rem;
+}
+.search-svg{
+    margin-right: -270px;
+}
+.million-of-people-bottom-right{
+    border-left: 1px solid black;
+}
+.million-of-people-bottom-right-top{
+    font-size: 1.8rem !important;
+}
+.carddisplay{
+    display: block;
+}
+
+@media (max-width: 767.8px){
+    .nav-btn{
+        padding-left: 70px !important;
+        padding-right: 70px !important;
+    }
+    .nav-btn-container{
+        margin-top: 16.5rem !important;
+    }
+    a.dropdown-toggle::after{
+        display: none;
+    }
+    .hero-head{
+        padding-right: 10rem;
+        padding-left: 10rem;
+        line-height: 4rem;
+        font-size: 3.1rem !important;
+    }
+    .companies-container{
+        
+    }
+    .small-img{
+        flex-basis: 25%;
+        margin-bottom: 1rem;
+    }
+    .companies-container{
+        margin-left: 5rem !important;
+    }
+    .slack-pic-img{
+        max-width: 80%;
+    }
+    .your-people{
+        margin-top: -5rem;
+        background-image: linear-gradient(180deg, #eee4ee34, #d0bed018);
+    }
+    .your-people-container>p{
+        font-size: 1.7rem !important;
+        font-weight: 800;
+    }
+    /* .right-collabs{
+        position:static !important;
+    }
+    .svg-img{
+        position:static !important;
+    } */
+    .plan-card{
+        width: 48% !important;
+    }
+    .accomplish-bottom button, .buttons button{
+        display: block !important;
+        padding-right: 15rem !important;
+        padding-left: 15rem !important;
+        width: 100% !important;
+        margin-top: 1.5rem;
+    }
+    .the-top-part{
+        clip-path:  ellipse(65% 200% at center -105%);
+        /* border-radius: 0 100% 0 0; */
+        height: 4rem;
+    }
+    .in-the-business-top{
+        font-size: 2.4rem;
+    }
+    .in-the-percent{
+        font-size: 4.3rem;
+    }
+    .in-the-percent-text{
+        margin-right: 10rem;
+        margin-left: 10rem;
+        text-align: center;
+    }
+    .million-of-people-top{
+        font-size: 1.672rem;
+    }
+    .million-of-people-bottom-right{
+        border-left:none;
+        border-top: 1px solid black;
+        margin-top: 2.5rem;
+    }
+    .million-of-people-bottom-right-top{
+        padding-left: 2rem;
+        padding-right: 2rem;
+        font-size: 2rem !important;
+        text-align: center;
+    }
+    .million-of-people-bottom-right-top-black{
+        font-size: 1.1rem;
+    }
+    /* .slack-dive-bottom .card1, .card2, .card3, .card4{
+        scale: .7;
+    } */
+    /* .carddisplay{
+        display: none;
+    } */
+    .card{
+        width: 50% !important;
+    } 
+    .footnote{
+        line-height: 1rem !important;
+    }
+    .accomplish{
+        clip-path: ellipse(110% 100% at center top);
+    }
+    .accomplish-top{
+        font-size: 2.7rem !important;
+        line-height: 3rem;
+        margin-bottom: -2rem;
+    }
+    .region-left a.dropdown-toggle::after{
+        display: block;
+    }
+    .each-footer-list{
+        display: none;
+    }
+    .before-footer-left img{
+        margin: 1.3rem 0rem 1.3rem 2.5rem;
+        
+    }
+    .navbar{
+        border-radius: 0;
+    }
+}
+    
+@media (min-width: 768px){
+    .svg-img{
+        position: absolute;
+        transform:  translateX(-50%), translateY(-50%);
+        top: 10%;
+        right: 10%;
+    }
+    
+}
